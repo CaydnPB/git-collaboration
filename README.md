@@ -1,4 +1,21 @@
-![logo](https://user-images.githubusercontent.com/44912347/201743027-4f29bdad-8418-4d72-80f5-f2f2527add15.jpg)
+<h1 align="center">Git Collaboration</h1>
+<div align="center">
+  <h2>Background</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+  👨‍💻 This repository was created as a part of my <a href="https://www.multiverse.io/en-GB/programmes/software-engineering" draggable="false">Multiverse Bootcamp</a>
+</p>
+<div align="center">
+  <h2>Original README</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+<img src="https://user-images.githubusercontent.com/44912347/201743027-4f29bdad-8418-4d72-80f5-f2f2527add15.jpg" alt="Logo">
 
 # Git Collaboration
 **GOAL**: In this project, you and your partner will be creating a list of apples in a text document, all version-controlled with Git!  While this project has an apples-listing theme, the apples (and the project) is not the point: The real goal is to give us an introduction to how we’ll be collaborating via Git in the coming lessons.
@@ -84,3 +101,13 @@ git pull partner main
 There are a number of ways you can resolve the problem you are currently experiencing. The solution you will use now is particularly helpful if you don't need to keep any of the changes you have made since your last commit (like if you accidentally edited a file).
 
 3. Type `git stash`. Your repository should revert to your last commit. Now when you do git status you should see that your working tree is clean. You should now be able to successfully pull from Partner B's repo. Go ahead and do so now.
+</p>
+<div align="center">
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<div align="center">
+  <img src="./img/madebycaydn.svg" alt="A badge showing that this was 'Made by Caydn'" draggable="false"
+    title="Made by Caydn">
+</div>
